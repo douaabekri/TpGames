@@ -1,7 +1,7 @@
 import random
 
 class Hangman:
-    total_points = 0  # Class-level variable to track points
+    total_points = 0 
 
     @staticmethod
     def Gamehangman():
